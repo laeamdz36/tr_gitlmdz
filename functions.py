@@ -1,5 +1,10 @@
 """Practica de GIT"""
 
+def rama3_before_func():
+    """Se añade una funcion antes de todas"""
+    
+    print("Hola soy la primer function")
+
 def new_function_rama2():
     """New function added in rama 2"""
 
@@ -32,3 +37,8 @@ def function_rama2():
     """Function created in rama 2"""
 
     print("Hello from rama 2")
+
+def rama3_first_func():
+    """Se crea primer funcion en rama 3"""
+
+    print("Hello from rama3")
