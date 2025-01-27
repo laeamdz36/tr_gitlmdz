@@ -42,3 +42,9 @@ def rama3_first_func():
     """Se crea primer funcion en rama 3"""
 
     print("Hello from rama3")
+
+# adding new function
+def new_function_onMain():
+    """New function as text"""
+
+    print("Hello from new function")
