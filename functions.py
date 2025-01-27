@@ -6,3 +6,7 @@ def funcion_main():
     print("Hello from main")
 
     
+def function_rama1():
+    """Function created in rama 1"""
+
+    print("Hello from rama 1")
