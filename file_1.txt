@@ -5,3 +5,5 @@ Modificacion en rama 1
 Codigo Generado en rama my_branch_1
 
 # Codigo agregado en feature 2
+# añadiendo inforemacion antes de recibir merge de rama 
+Feature 2
