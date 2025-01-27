@@ -12,3 +12,9 @@ Feature 2
 # Codigo agregado en feature 2
 
 # codigo agregadi en Modificacion
+
+Codigo de rama main
+Este es codigo de rama main
+
+# Codigo Escrito en rama 1
+Este es codigo de rama 1
