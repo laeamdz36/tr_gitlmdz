@@ -16,6 +16,11 @@ def new_main_function():
 
     print("Hello im new funtcion in main")
 
+def second_main_function():
+    """Adding second main function"""
+
+    print("Nerw second main function")
+
 
 def function_rama1():
     """Function created in rama 1"""
