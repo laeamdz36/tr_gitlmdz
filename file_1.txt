@@ -19,3 +19,6 @@ Este es codigo de rama main
 # Codigo Escrito en rama 1
 Este es codigo de rama 1
 Segunda linea de codigo agregada en rama 1
+
+Codigo de rama 2
+Este es codigo de rama 2
